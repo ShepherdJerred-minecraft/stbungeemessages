@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+author: ${organization.name}
+
+main: com.shepherdjerred.stbungeemessages.Main
